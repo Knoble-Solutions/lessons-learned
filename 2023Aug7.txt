@@ -1,0 +1,16 @@
+Todays Topics:
+
+The importance and business use case of the Typescript Language.
+    - prevents developer mistakes down the road. aka limiting tech debt by transpiling JS
+
+The React Framework
+
+how the use of developemental frameworks evolved from vanilla programming.
+    - the complexity of front end state-management required similar language and practices to be scaled
+     amongst team developers.
+
+    - specific vernacular of REACT.
+        - prop drilling
+        - components
+        - single source(s) of Truth
+        -
