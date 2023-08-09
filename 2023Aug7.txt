@@ -13,4 +13,3 @@ how the use of developemental frameworks evolved from vanilla programming.
         - prop drilling
         - components
         - single source(s) of Truth
-        -
