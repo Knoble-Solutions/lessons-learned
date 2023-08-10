@@ -1,0 +1,4 @@
+Today:
+
+- Opened Coffee Github
+- Setup Website file
