@@ -3,3 +3,6 @@
 - Experimented changing the browser size to understand how flexbox property
 flex: auto changes in the browser.
 
+- completed TOP flexbox lesson.
+
+- watched a Kevin Powell Vid "FlexBox the Easyway"
