@@ -1,0 +1,7 @@
+## Acquired.
+
+- Messner 01 - 10 vids
+- Deep Dive, TCP and UDP
+    - protocol differences and use cases for each
+
+- playlisted vids to review A+ questions answered incorrectly.
