@@ -1,0 +1,11 @@
+## Today
+
+# Messner Vids 10 - 12.
+
+# LTT's Server Room Maintenance Log
+    understand servers racks and the machines that are equipped on them.
+    - patch panels
+    - UPS (Uninterruptible Power Supply)
+
+# Odin Project Foundation
+    - Javascript Lesson 2 readthrough
