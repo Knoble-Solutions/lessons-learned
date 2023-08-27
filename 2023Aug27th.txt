@@ -9,3 +9,15 @@
         - learned about the evolution of XHR to JS fetch(s) to JS promises  
 
     Github CLI
+    - the differences between git clone and git pull.
+        - clone copies all files into your working directory, pull copies only the changes into your working directory
+
+    - fetch and pull differences
+        - pull changes into the working directory
+        - fetch changes into your local git repository.
+
+# Vernacular
+    working directory is just your workspace
+    a repository is the folder that contains your hidden .git file
+
+        
