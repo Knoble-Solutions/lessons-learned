@@ -1,0 +1,11 @@
+## Sunday
+
+# Odin project
+    - Developer Tool Lesson Completed
+
+# Vids
+    What XHR?
+        - load specific parts of a webpage without having to completely refresh
+        - learned about the evolution of XHR to JS fetch(s) to JS promises  
+
+    Github CLI
