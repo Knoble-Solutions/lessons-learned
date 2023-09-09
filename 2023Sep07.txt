@@ -2,4 +2,4 @@
 
 - created anki deck for port protocols.
 - researched mastodon and how it differs from twitter and threads.
-- messer vids A+ pt2 02 - 05.
+- messer vids A+ pt2 02 - 05
