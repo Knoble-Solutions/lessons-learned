@@ -1,3 +1,4 @@
 ## 
 
 - MAM & MDM
+- studied ports
