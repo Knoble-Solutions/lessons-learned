@@ -1,5 +1,0 @@
-/*
-##
-
-followed up on cloudinary/mongoose multiple backends 
-*/
