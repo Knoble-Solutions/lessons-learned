@@ -1,2 +1,2 @@
 # lessons-learned
-Notes of topics I've spent time researching throughout my work sessions.
+Notes of topics I've researched throughout my work sessions.
