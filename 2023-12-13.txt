@@ -1,0 +1,1 @@
+- finished refactoring ejs template with a supabase backend.
