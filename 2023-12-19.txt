@@ -1,0 +1,2 @@
+- Connected cloudinary
+- used Postman to confirm working API
