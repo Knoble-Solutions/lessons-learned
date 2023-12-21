@@ -1,0 +1,1 @@
+- setup config files for Cloudinary and Mongoose in server
