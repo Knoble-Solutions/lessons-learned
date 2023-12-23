@@ -1,1 +1,2 @@
 - refactored server to MVC model
+- established new connection to Mongoose
