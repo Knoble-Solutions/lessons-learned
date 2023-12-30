@@ -1,0 +1,2 @@
+- continued MVC project structure
+- added quiz questions to study guide
