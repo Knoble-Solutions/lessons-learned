@@ -1,0 +1,2 @@
+- debugged MVC
+- finished MVC template tutorial
