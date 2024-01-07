@@ -1,0 +1,2 @@
+- deep dive into OOP structure
+- continued on MVC projects 
