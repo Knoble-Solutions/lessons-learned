@@ -1,0 +1,2 @@
+- continued Odin projects
+- worked on js methods
