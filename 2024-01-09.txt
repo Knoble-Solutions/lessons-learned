@@ -1,0 +1,2 @@
+- continued building server
+- read up on the mongoose dependency
