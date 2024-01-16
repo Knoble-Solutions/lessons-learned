@@ -1,0 +1,2 @@
+- passport documentation
+- added authentication to app
