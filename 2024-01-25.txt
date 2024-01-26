@@ -1,0 +1,2 @@
+- worked on Sage Server
+- practiced Code Wars
