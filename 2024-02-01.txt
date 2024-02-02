@@ -1,0 +1,3 @@
+- 3 codewars
+- countinued BUB project
+- initialized atlas
