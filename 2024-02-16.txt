@@ -1,1 +1,1 @@
-- twitter differences
+- twitter and bluesky differences
